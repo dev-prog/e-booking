@@ -1,24 +1,13 @@
-# README
+Projeto para a disciplina de Engenharia de Software, UFRPE-UAG 2018.2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Professor: Rodrigo Andrade
 
-Things you may want to cover:
+Desenvolvedor:
 
-* Ruby version
+    Jailson José dos Santos Silva
 
-* System dependencies
 
-* Configuration
+Descrição: 
+	
+	Este é um projeto que visa desenvolver um Site para busca de hotéis e reserva de quarto, onde será possivel cadastrar e buscar por hotéis, efetuar reserva de quarto.O projeto está sendo desenvolvido com o framework Ruby on Rails, com o apoio das ferramentas RubyMine, Cucumber, Capybara e Slack
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
